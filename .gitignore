@@ -298,3 +298,4 @@ amplifyxc.config
 
 .vscode/*
 amplify/vscode/*
+amplify/*
